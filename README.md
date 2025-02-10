@@ -1,1 +1,1 @@
-# shopwebsite
+A simple shop website built with HTML and CSS, featuring a homepage, product listings, and a responsive design. It includes a navbar, product cards, and a footer for a clean shopping experience. Styled with CSS for an attractive and user-friendly layout.
